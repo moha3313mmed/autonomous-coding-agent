@@ -1,0 +1,46 @@
+{
+  "navigation": {
+    "dashboard": "Dashboard",
+    "tasks": "Tasks",
+    "dag": "DAG View",
+    "agents": "Agents",
+    "performance": "Performance",
+    "skills": "Skills",
+    "memory": "Memory",
+    "timeline": "Timeline",
+    "quality": "Quality",
+    "recovery": "Recovery",
+    "feedback": "Feedback",
+    "settings": "Settings"
+  },
+  "status": {
+    "running": "Running",
+    "completed": "Completed",
+    "failed": "Failed",
+    "warning": "Warning",
+    "pending": "Pending",
+    "connected": "Connected",
+    "disconnected": "Disconnected",
+    "reconnecting": "Reconnecting",
+    "healthy": "Healthy",
+    "degraded": "Degraded",
+    "critical": "Critical"
+  },
+  "actions": {
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "retry": "Retry",
+    "dismiss": "Dismiss",
+    "search": "Search",
+    "filter": "Filter",
+    "export": "Export",
+    "refresh": "Refresh",
+    "toggleTheme": "Toggle Theme",
+    "toggleSidebar": "Toggle Sidebar",
+    "newTask": "New Task",
+    "viewDetails": "View Details",
+    "rollback": "Rollback",
+    "accept": "Accept",
+    "reject": "Reject"
+  }
+}
